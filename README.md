@@ -4,6 +4,8 @@ Blog : https://medium.com/@dhanushvemulapalli717/detecting-fake-news-using-infor
 
 Video : https://screenrec.com/share/lEphf0I5kP
 
+Project Report : https://docs.google.com/document/d/1vErTP84Sh4h4p4ZeTnT4YQx4X50TJiGyp0ynSNtzWro/edit?usp=sharing
+
 This project explores how Information Retrieval (IR) techniques combined with Machine Learning and Deep Learning models can be used to automatically classify news articles as REAL or FAKE. The system applies traditional NLP preprocessing, vectorization methods like TF-IDF and Word2Vec embeddings, and evaluates multiple classifiers — from classical ML models to a Bi-LSTM neural network.
 
 ## 🚀 Project Overview
