@@ -1,6 +1,7 @@
 # 📰 Fake News Detection using Information Retrieval & Machine Learning
 
 Blog : https://medium.com/@dhanushvemulapalli717/detecting-fake-news-using-information-retrieval-machine-learning-a-practical-implementation-b529a9670b5a
+
 Video : https://screenrec.com/share/lEphf0I5kP
 
 This project explores how Information Retrieval (IR) techniques combined with Machine Learning and Deep Learning models can be used to automatically classify news articles as REAL or FAKE. The system applies traditional NLP preprocessing, vectorization methods like TF-IDF and Word2Vec embeddings, and evaluates multiple classifiers — from classical ML models to a Bi-LSTM neural network.
