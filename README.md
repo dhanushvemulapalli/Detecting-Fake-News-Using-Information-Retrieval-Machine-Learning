@@ -2,7 +2,7 @@
 
 Blog : https://medium.com/@dhanushvemulapalli717/detecting-fake-news-using-information-retrieval-machine-learning-a-practical-implementation-b529a9670b5a
 
-Video : https://screenrec.com/share/lEphf0I5kP
+Video : https://screenrec.com/share/eab3XYSqcs
 
 Project Report : https://docs.google.com/document/d/1vErTP84Sh4h4p4ZeTnT4YQx4X50TJiGyp0ynSNtzWro/edit?usp=sharing
 
